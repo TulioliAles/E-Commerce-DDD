@@ -1,0 +1,9 @@
+D:\ADM\Projetos_Dotnet_Core\EcommerceDDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\ADM\Projetos_Dotnet_Core\EcommerceDDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\ADM\Projetos_Dotnet_Core\EcommerceDDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\ADM\Projetos_Dotnet_Core\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+D:\ADM\Projetos_Dotnet_Core\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\ADM\Projetos_Dotnet_Core\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\ADM\Projetos_Dotnet_Core\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\ADM\Projetos_Dotnet_Core\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\ADM\Projetos_Dotnet_Core\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
