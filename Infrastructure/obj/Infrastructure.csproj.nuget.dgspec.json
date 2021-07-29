@@ -4,14 +4,14 @@
     "D:\\ADM\\Projetos_Dotnet_Core\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\ADM\\Projetos_Dotnet_Core\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\ADM\\Projetos_Dotnet_Core\\EcommerceDDD\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ADM\\Projetos_Dotnet_Core\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
-        "projectName": "Infrastructure",
-        "projectPath": "D:\\ADM\\Projetos_Dotnet_Core\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\ADM\\Projetos_Dotnet_Core\\EcommerceDDD\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "D:\\ADM\\Projetos_Dotnet_Core\\EcommerceDDD\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\atulioli\\.nuget\\packages\\",
-        "outputPath": "D:\\ADM\\Projetos_Dotnet_Core\\EcommerceDDD\\Infrastructure\\obj\\",
+        "outputPath": "D:\\ADM\\Projetos_Dotnet_Core\\EcommerceDDD\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\atulioli\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,76 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ADM\\Projetos_Dotnet_Core\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ADM\\Projetos_Dotnet_Core\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "D:\\ADM\\Projetos_Dotnet_Core\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\atulioli\\.nuget\\packages\\",
+        "outputPath": "D:\\ADM\\Projetos_Dotnet_Core\\EcommerceDDD\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\atulioli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://srvv24:9090/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\ADM\\Projetos_Dotnet_Core\\EcommerceDDD\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\ADM\\Projetos_Dotnet_Core\\EcommerceDDD\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
